@@ -99,7 +99,7 @@ code {
     background-size: cover;
 }
 
-@media (min-width: 768px) {
+/* @media (min-width: 768px) {
   .header-container,.main-container,.footer-container {
     width: 750px;
   }
@@ -113,7 +113,7 @@ code {
   .header-container,.main-container,.footer-container {
     width: 850px;
   }
-}
+} */
 
 .header-container {
 	margin: 0 auto;
